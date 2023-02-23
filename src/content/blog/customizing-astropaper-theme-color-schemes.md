@@ -9,12 +9,17 @@ tags:
   - color-schemes
   - docs
 ogImage: ""
+
 description:
   How you can enable/disable light & dark mode; and customize color schemes
   of AstroPaper theme.
 ---
 
 This post will explain how you can enable/disable light & dark mode for the website. Moreover, you'll learn how you can customize color schemes of the entire website.
+
+<!-- <div>
+  <img src="../../assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+</div> -->
 
 ## Table of contents
 

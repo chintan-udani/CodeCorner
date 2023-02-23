@@ -3,12 +3,15 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+TechPaper is a minimal, daily dose of tech blogs and updates. I designed and crafted this based on [my personal blog](techpaper.netlify.app).
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+👋 Welcome to my tech blog!
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+🤖 As a self-proclaimed tech enthusiast, I am passionate about all things technology. From the latest gadgets and software updates to the newest trends and innovations, I am always eager to learn and share my knowledge with others.
+
+📱 Whether you are a casual user or a tech expert, my blog is the perfect place to stay up-to-date on the latest tech news, reviews, and tips. With a wide range of topics including smartphones, laptops, gaming, software, and more, you will find something to pique your interest.
+
+💻 As an avid blogger, I understand the importance of creating content that is not only informative but also engaging and easy to read. With a focus on SEO, I strive to ensure that my blog is optimized for search engines so that readers can easily find and access the content they are looking for.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
