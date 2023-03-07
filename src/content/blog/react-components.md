@@ -1,6 +1,6 @@
 ---
 author: Chintan Udani
-pubDatetime: 2023-03-07T05:22:00Z
+pubDatetime: 2023-03-07T10:22:00Z
 title: "Understanding React Component Mount and Unmount Methods"
 postSlug: understanding-react-component-mount-and-unmount-methods
 featured: true
