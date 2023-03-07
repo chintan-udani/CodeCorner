@@ -59,7 +59,7 @@ Understanding the Mount and Unmount methods of React components is crucial for d
 <style>
     table{
     word-break: break-word;
-    font-size:2vw !important;
+    font-size:1vw !important;
     font-weight:bolder;
     font-size:1vw;
     }
@@ -113,10 +113,10 @@ Understanding the Mount and Unmount methods of React components is crucial for d
       <td>Before unmounting </td>
     </tr>
     <tr>
-      <td>componentDidUnmount()	</td>
+      <td>componentDidUnmount() </td>
       <td>This method is called after the component is unmounted and removed from the DOM. It can be used to perform any final cleanup actions, but should not update the state</td>
       <td>After unmounting</td>
     </tr>
-     
+
   </tbody>
 </table>
