@@ -56,79 +56,67 @@ Understanding the Mount and Unmount methods of React components is crucial for d
 
 ## Table for mounting methods
 
- <style>
-  table {
-   border:1px solid #e03106;
-   border-collapse:collapse;
-   padding:5px;
-  }
-  table th {
-   border:1px solid #e03106;
-   padding:5px;
-   color: #313030;
-  }
-  table td {
-   border:1px solid #e03106;
-   text-align:left;
-   padding:10px 5px;
-   background: #00000;
-   color: #00000;
-  }
- </style>
-</head>
-<body>
- <table>
+<style>
+    table{
+    word-break: break-word;
+    font-size:2vw !important;
+    font-weight:bolder;
+    font-size:1vw;
+    }
+</style>
+<table>
   <thead>
-   <tr>
-    <th>Mounting Methods </th>
-    <th>Description </th>
-    <th>When Called</th>
-   </tr>
+    <tr>
+      <th>Mounting methods</th>
+      <th>description</th>
+      <th>When called</th>
+    </tr>
   </thead>
   <tbody>
-   <tr>
-    <td>constructor()</td>
-    <td>This method is called when the component is initialized and sets the initial state and binds methods to the component.</td>
-    <td>Before mounting</td>
-   </tr>
-   <tr>
-    <td>static getDerivedStateFromProps()</td>
-    <td>This method is called when the component is first created and whenever new props are passed to the component. It returns an object to update the state or null to indicate no change is needed.</td>
-    <td>Before mounting and before updating</td>
-   </tr>
-   <tr>
-    <td>render()</td>
-    <td>This method returns the component's JSX representation. It is called every time the component is updated.</td>
-    <td>Before mounting and on every update.</td>
-   </tr>
-   <tr>
-    <td>componentDidMount()</td>
-    <td>This method is called after the component is mounted to the DOM. It is commonly used to fetch data or add event listeners.</td>
-    <td>After mounting</td>
-   </tr>
+    <tr>
+      <td>constructor()</td>
+      <td>This method is called when the component is initialized and sets the initial state and binds methods to the component.</td>
+      <td>Before mounting</td>
+    </tr>
+    <tr>
+      <td>static getDerivedStateFromProps()</td>
+      <td>This method is called when the component is first created and whenever new props are passed to the component. It returns an object to update the state or null to indicate no change is needed.</td>
+      <td>Before mounting and before updating</td>
+    </tr>
+     <tr>
+      <td>render()</td>
+      <td>This method returns the component's JSX representation. It is called every time the component is updated.</td>
+      <td>Before mounting and on every update</td>
+    </tr>
+    <tr>
+      <td>componentDidMount()</td>
+      <td>This method is called after the component is mounted to the DOM. It is commonly used to fetch data or add event listeners.</td>
+      <td>After mounting</td>
+    </tr>
   </tbody>
- </table>
+</table>
 
-## Table for unmounting methods
+## Unmounting Methods
 
 <table>
   <thead>
-   <tr>
-    <th>Unmounting Methods </th>
-    <th>Description </th>
-    <th>When Called</th>
-   </tr>
+    <tr>
+      <th>Unmounting methods</th>
+      <th>description</th>
+      <th>When called</th>
+    </tr>
   </thead>
   <tbody>
-   <tr>
-    <td>componentWillUnmount()</td>
-    <td>This method is called right before the component is unmounted and removed from the DOM. It is commonly used to cleanup resources or remove event listeners.</td>
-    <td>Before unmounting</td>
-   </tr>
-   <tr>
-    <td>componentDidUnmount()</td>
-    <td>This method is called after the component is unmounted and removed from the DOM. It can be used to perform any final cleanup actions, but should not update the state.</td>
-    <td>After unmounting</td>
-   </tr>
+    <tr>
+      <td>componentWillUnmount()</td>
+      <td>This method is called right before the component is unmounted and removed from the DOM. It is commonly used to cleanup resources or remove event listeners.</td>
+      <td>Before unmounting </td>
+    </tr>
+    <tr>
+      <td>componentDidUnmount()	</td>
+      <td>This method is called after the component is unmounted and removed from the DOM. It can be used to perform any final cleanup actions, but should not update the state</td>
+      <td>After unmounting</td>
+    </tr>
+     
   </tbody>
- </table>
+</table>
