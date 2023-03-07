@@ -28,6 +28,14 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 <Layout>
   <Header />
   <main id="main-content">
+    <section>
+      <img
+        class="image-one"
+        src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/e2c60f85205445.63ffc94549244.png"
+        alt=""
+        srcset=""
+      />
+    </section>
     <section id="hero">
       <h1>Chintan</h1>
       <a
@@ -123,6 +131,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
 <style>
   /* ===== Hero Section ===== */
+  .image-one {
+    border-radius: 20px;
+  }
   #hero {
     @apply pt-8 pb-6;
   }
