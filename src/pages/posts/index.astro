@@ -15,4 +15,11 @@ const totalPages = getPageNumbers(sortedPosts.length);
 const paginatedPosts = sortedPosts.slice(0, SITE.postPerPage);
 ---
 
+<head>
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3529903791338625"
+    crossorigin="anonymous"
+  ></script>
+</head>
 <Posts posts={paginatedPosts} pageNum={1} totalPages={totalPages.length} />
