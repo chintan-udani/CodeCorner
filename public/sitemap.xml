@@ -9,69 +9,22 @@
 
 <url>
   <loc>https://techpaper.netlify.app/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://techpaper.netlify.app/posts/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://techpaper.netlify.app/tags/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://techpaper.netlify.app/about/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://techpaper.netlify.app/search/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://techpaper.netlify.app/posts/understanding-react-component-mount-and-unmount-methods/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/posts/ai-chatbots-the-revolutionary-force-behind-the-internets-transformation/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/tags/docs/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/tags/tech/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/tags/bing/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/tags/programming/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/tags/react/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://techpaper.netlify.app/tags/reactcomponents/</loc>
-  <lastmod>2023-03-09T14:24:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
