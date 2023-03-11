@@ -19,7 +19,7 @@ description: Artificial Intelligence is transforming the way industries operate,
 
 ## Table of contents
 
-## Understanding React Component Mount and Unmount Methods
+## Top 5 AI Technologies for 2023
 
 <figure>
  <img
